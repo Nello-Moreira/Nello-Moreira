@@ -1,8 +1,6 @@
-# Hello world, I'm Nello
-My real name is Gabriel Dell Orfanello Moreira. A little bit difficult and kind of common, right? So you can call me Nello.
-I'm a full-stack developer and a chemical engineering undergraduate.
+Experienced full-stack software developer with 2+ years of expertise in Node.js, PostgreSQL and Docker. Resourceful and business-minded problem solver adept at enhancing operational efficiency. Successfully optimized job scheduling and improved code infrastructure through Docker solutions, significantly reducing build time and costs. 
 
-When I was an engineering intern, I learned about python and discovered my passion for programming. Since then, I've been developing some projects using python and javascript.
+I also know other technologies, such as Python, Git, and Linux.
 
 Fun fact about me: I love teaching and helping others, so I'm recording some coding tutorials for my [YouTube channel][youtube]
 
