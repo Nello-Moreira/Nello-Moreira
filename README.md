@@ -1,6 +1,10 @@
-Experienced full-stack software developer with 2+ years of expertise in Node.js, PostgreSQL and Docker. Resourceful and business-minded problem solver adept at enhancing operational efficiency. Successfully optimized job scheduling and improved code infrastructure through Docker solutions, significantly reducing build time and costs. 
+As a Full-Stack Software Developer with over 3 years of hands-on experience, I specialize in building scalable applications using Node.js, PostgreSQL, and Docker. Recently, I led the migration of our server and BI infrastructure from Heroku to AWS EC2, containerizing it with Docker, which reduced build time and costs by half. I also developed machine learning models to predict lead conversion rates and job duration, driving greater operational performance and more data-driven decision-making. My approach is both technical and business-minded, with a proven track record of enhancing efficiency by optimizing code infrastructure and implementing robust solutions.
 
-I also know other technologies, such as Python, Git, and Linux.
+Currently, I am expanding my knowledge base as an MBA student focused on Data Science and as a graduate student in Artificial Intelligence, where I’m diving deeper into areas like Clustering, Neural Networks, and Natural Language Processing. This blend of business acumen and advanced technical expertise enables me to bridge the gap between technology and strategic decision-making, delivering data-driven solutions that align with business goals.
+
+My toolkit also includes Python, Bash, Linux, Git, GitHub Actions, Business Intelligence (BI), and Code reviews, among other technologies, making me adaptable and resourceful in diverse development environments. I’m passionate about solving complex problems and continuously evolving my skill set to stay ahead in the rapidly changing tech landscape.
+
+Node.js | PostgreSQL | React | Docker | AWS | EC2 | S3 | Heroku | Business Intelligence (BI) | Python | Machine Learning | Data Science | Bash | Linux | Git | GitHub Actions | Unit test | Code Review
 
 Fun fact about me: I love teaching and helping others, so I'm recording some coding tutorials for my [YouTube channel][youtube]
 
