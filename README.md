@@ -16,15 +16,14 @@ My toolkit also includes Machine Learning, Bash, Linux, Git, GitHub Actions, Bus
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>][youtube]
 
 ## Statistics
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img alt="Nellos's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nello-Moreira&show_icons=true&hide_border=true" />
-</details>
+:zap: GitHub Stats
 
-<details>
-<summary>:zap: Most Used Languages</summary>
-<img alt="Nellos's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nello-Moreira" />
-</details>
+<img alt="Nello's GitHub Stats" src="https://github-readme-stats-mu-silk-36.vercel.app/api?username=nello-moreira&show_icons=true&hide_border=true&theme=transparent&show=reviews&hide_rank=true" />
+
+:zap: Most Used Languages
+
+<img alt="Nello's GitHub Top Languages" src="https://github-readme-stats-mu-silk-36.vercel.app/api/top-langs/?username=Nello-Moreira&hide_border=true&theme=transparent" />
+
 
 [youtube]: https://www.youtube.com/@nellomoreira
 [linkedin]: https://www.linkedin.com/in/nellodev/
